@@ -17,6 +17,8 @@ creator:
     - http://pl.wikipedia.org/wiki/Kazimierz_Brodzi%C5%84ski
     - http://en.wikipedia.org/wiki/Kazimierz_Brodzi%C5%84ski
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27835#Wies-aw--13-sielanka-krakowska-w-pi-ciu-aktach
 gutenberg_issued: '2009-01-19'
 gutenberg_type: Text
 identifiers:
