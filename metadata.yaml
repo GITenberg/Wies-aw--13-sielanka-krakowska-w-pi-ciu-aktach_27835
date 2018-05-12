@@ -1,0 +1,32 @@
+_repo: Wies-aw--13-sielanka-krakowska-w-pi-ciu-aktach_27835
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brodziński, Kazimierz
+    aliases:
+    - Kazimierz Brodziñski
+    - Brodzinski, Kazimierz
+    birthdate: 1791
+    deathdate: 1835
+    gutenberg_agent_id: '32939'
+    url: http://www.gutenberg.org/2009/agents/32939
+    wikipedia:
+    - http://pl.wikipedia.org/wiki/Kazimierz_Brodzi%C5%84ski
+    - http://en.wikipedia.org/wiki/Kazimierz_Brodzi%C5%84ski
+description: ''
+gutenberg_issued: '2009-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27835'
+language: pl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Poetry'
+title: "Wiesław\r\nsielanka krakowska w pięciu aktach"
+url: http://www.gutenberg.org/ebooks/27835
